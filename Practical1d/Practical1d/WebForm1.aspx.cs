@@ -88,14 +88,19 @@ namespace Practical1d
             int num = og_num;
             int reversed = 0;
 
+            int sum = 0;
+
             while (num > 0)
             {
                 int remainder = num % 10;
                 reversed = reversed * 10 + remainder;
                 num = num / 10;
+
+                sum += remainder;
             }
 
             ReverseResultLabel.Text = $"Reverse of {og_num} is {reversed}";
+            SumOfDigitsResultLabel.Text = $"Sum of digits in {og_num} is {sum}";
         }
     }
 }

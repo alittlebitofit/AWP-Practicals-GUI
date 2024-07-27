@@ -41,9 +41,11 @@
         <asp:Label ID="Label6" runat="server" Text="Enter a number"></asp:Label>
         <asp:TextBox ID="TextBox8" runat="server"></asp:TextBox>
         <br />
-        <asp:Button ID="Button5" runat="server" Text="Reverse" OnClick="Button5_Click" />
+        <asp:Button ID="Button5" runat="server" Text="Reverse and Sum" OnClick="Button5_Click" />
         <br />
         <asp:Label ID="ReverseResultLabel" runat="server"></asp:Label>
+        <br />
+        <asp:Label ID="SumOfDigitsResultLabel" runat="server"></asp:Label>
         <br />
     </form>
 </body>
