@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ME\\Programming\\AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\",
+  "WorkspaceRootPath": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|d:\\me\\programming\\awp practicals - academics\\ernical rafiya\\practical3\\practical3c\\practical3c\\3catreeviewanddatalist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\ernical rafiya\\practical3\\practical3c\\practical3c\\3cbtreeviewoperations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|solutionrelative:practical3c\\3cbtreeviewoperations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\ernical rafiya\\practical3\\practical3c\\practical3c\\3cbtreeviewoperations.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|solutionrelative:practical3c\\3cbtreeviewoperations.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\ernical rafiya\\practical3\\practical3c\\practical3c\\3catreeviewanddatalist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|solutionrelative:practical3c\\3catreeviewanddatalist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|d:\\me\\programming\\awp practicals - academics\\ernical rafiya\\practical3\\practical3c\\practical3c\\3catreeviewanddatalist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\ernical rafiya\\practical3\\practical3c\\practical3c\\3catreeviewanddatalist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A46D76A4-ED49-4B0A-9917-2AAD41BF5210}|Practical3c\\Practical3c.csproj|solutionrelative:practical3c\\3catreeviewanddatalist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "3caTreeViewandDatalist.aspx",
-              "DocumentMoniker": "D:\\ME\\Programming\\AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx",
-              "RelativeDocumentMoniker": "Practical3c\\3caTreeViewandDatalist.aspx",
-              "ToolTip": "D:\\ME\\Programming\\AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx",
-              "RelativeToolTip": "Practical3c\\3caTreeViewandDatalist.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "DocumentIndex": 1,
+              "Title": "3cbTreeViewOperations.aspx",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3cbTreeViewOperations.aspx",
+              "RelativeDocumentMoniker": "Practical3c\\3cbTreeViewOperations.aspx",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3cbTreeViewOperations.aspx",
+              "RelativeToolTip": "Practical3c\\3cbTreeViewOperations.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-08-02T04:31:58.924Z",
+              "WhenOpened": "2024-08-03T03:01:15.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "3caTreeViewandDatalist.aspx.cs",
-              "DocumentMoniker": "D:\\ME\\Programming\\AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx.cs",
-              "RelativeDocumentMoniker": "Practical3c\\3caTreeViewandDatalist.aspx.cs",
-              "ToolTip": "D:\\ME\\Programming\\AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx.cs",
-              "RelativeToolTip": "Practical3c\\3caTreeViewandDatalist.aspx.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAswBYAAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "3cbTreeViewOperations.aspx.cs",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3cbTreeViewOperations.aspx.cs",
+              "RelativeDocumentMoniker": "Practical3c\\3cbTreeViewOperations.aspx.cs",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3cbTreeViewOperations.aspx.cs",
+              "RelativeToolTip": "Practical3c\\3cbTreeViewOperations.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T04:19:16.334Z",
+              "WhenOpened": "2024-08-03T03:04:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3caTreeViewandDatalist.aspx",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx",
+              "RelativeDocumentMoniker": "Practical3c\\3caTreeViewandDatalist.aspx",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx",
+              "RelativeToolTip": "Practical3c\\3caTreeViewandDatalist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T03:09:50.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3caTreeViewandDatalist.aspx.cs",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx.cs",
+              "RelativeDocumentMoniker": "Practical3c\\3caTreeViewandDatalist.aspx.cs",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Ernical Rafiya\\Practical3\\Practical3c\\Practical3c\\3caTreeViewandDatalist.aspx.cs",
+              "RelativeToolTip": "Practical3c\\3caTreeViewandDatalist.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:10:07.538Z",
               "EditorCaption": ""
             }
           ]

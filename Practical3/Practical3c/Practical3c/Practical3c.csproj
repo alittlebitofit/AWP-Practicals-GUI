@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="3caTreeViewandDatalist.aspx" />
+    <Content Include="3cbTreeViewOperations.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +78,13 @@
     </Compile>
     <Compile Include="3caTreeViewandDatalist.aspx.designer.cs">
       <DependentUpon>3caTreeViewandDatalist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="3cbTreeViewOperations.aspx.cs">
+      <DependentUpon>3cbTreeViewOperations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="3cbTreeViewOperations.aspx.designer.cs">
+      <DependentUpon>3cbTreeViewOperations.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
