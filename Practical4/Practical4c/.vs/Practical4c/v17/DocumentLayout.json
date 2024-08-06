@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\practical4\\practical4c\\practical4c\\4cwebform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|solutionrelative:practical4c\\4cwebform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\practical4\\practical4c\\practical4c\\4cusercontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|solutionrelative:practical4c\\4cusercontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\practical4\\practical4c\\practical4c\\4cwebform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|solutionrelative:practical4c\\4cwebform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|d:\\me\\programming\\practicals - academics\\3-awp practicals - academics\\practical4\\practical4c\\practical4c\\4cusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{91B46796-CB26-4D9D-9CAE-4E2ADF5746D7}|Practical4c\\Practical4c.csproj|solutionrelative:practical4c\\4cusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4cWebForm.aspx.cs",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cWebForm.aspx.cs",
+              "RelativeDocumentMoniker": "Practical4c\\4cWebForm.aspx.cs",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cWebForm.aspx.cs",
+              "RelativeToolTip": "Practical4c\\4cWebForm.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:14:21.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4cWebForm.aspx",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cWebForm.aspx",
+              "RelativeDocumentMoniker": "Practical4c\\4cWebForm.aspx",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cWebForm.aspx",
+              "RelativeToolTip": "Practical4c\\4cWebForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T07:13:06.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4cUserControl.ascx.cs",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cUserControl.ascx.cs",
+              "RelativeDocumentMoniker": "Practical4c\\4cUserControl.ascx.cs",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cUserControl.ascx.cs",
+              "RelativeToolTip": "Practical4c\\4cUserControl.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:08:15.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4cUserControl.ascx",
+              "DocumentMoniker": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cUserControl.ascx",
+              "RelativeDocumentMoniker": "Practical4c\\4cUserControl.ascx",
+              "ToolTip": "D:\\ME\\Programming\\Practicals - Academics\\3-AWP Practicals - Academics\\Practical4\\Practical4c\\Practical4c\\4cUserControl.ascx",
+              "RelativeToolTip": "Practical4c\\4cUserControl.ascx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-06T07:05:20.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
